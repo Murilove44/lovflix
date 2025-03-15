@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 767px) {
+    main {
+        width: auto;
+        height: auto;
+        padding-left: 5px;
+        padding-right: 10px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #user {
+        padding-top: 15px; 
+        padding-right: 15px; 
+    }
+    .categoria-container {
+        position: relative; 
+        height: 253px;
+        width: 450px;
+    }
+    #filmes {
+        width: auto;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #user {
+        padding-top: 25px;
+        padding-right: 25px;
+    }
+    main {
+        border-radius: 20px;
+        margin: 30px;
+        padding: 30px;
+        margin: auto;
+        text-align: justify;
+      }
+}

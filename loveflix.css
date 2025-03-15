@@ -232,14 +232,6 @@ body {
     background-color: #0A0A0A;
 }
 
-main {
-  border-radius: 20px;
-  margin: 30px;
-  padding: 30px;
-  margin: auto;
-  text-align: justify;
-}
-
 main img {
   width: 450px;
   height: 253px;
